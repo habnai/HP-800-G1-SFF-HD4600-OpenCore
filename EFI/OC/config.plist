@@ -1266,7 +1266,7 @@
                 <key>ProcessorType</key>
                 <integer>1541</integer>
                 <key>ROM</key>
-                <data>0OFA1FLS</data>
+                <data>XXXXXXX</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -1274,9 +1274,9 @@
                 <key>SystemProductName</key>
                 <string>iMac15,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02MN0TRFY10</string>
+                <string>XXXXXXXXX</string>
                 <key>SystemUUID</key>
-                <string>D1AD6406-1A7C-42F2-8F7F-5FF67B5727B6</string>
+                <string>XXXXXXXXXXXXXXX</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
