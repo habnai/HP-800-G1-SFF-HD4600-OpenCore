@@ -12,7 +12,6 @@ OpenCore for HP 800-G1 SFF with HD4600
     WIFI(Intel or Broadcom )
     Sound
     USB Port
-    4K Monitor (thanks https://github.com/thawri1)
 
 #Before installation
 Edit config.plist
