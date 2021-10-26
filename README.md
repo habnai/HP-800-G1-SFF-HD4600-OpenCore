@@ -6,13 +6,13 @@ OpenCore for HP 800-G1 SFF with HD4600
     OC Version: 0.7.4
     Tested OS Version: 11.6 
     Tested resolution: 1920*1080
-
+    
 #Working
 
     WIFI(Intel or Broadcom )
     Sound
     USB Port
-
+    4K Monitor (thanks https://github.com/thawri1) tested with dGPU
 #Before installation
 Edit config.plist
 
